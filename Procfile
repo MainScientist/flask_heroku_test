@@ -1,1 +1,1 @@
-web: python3 main.py
+web: flask run --host=0.0.0.0 --port=80
